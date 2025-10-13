@@ -1,3 +1,3 @@
 # nasser3eme
 
-git branch -D slm cc cv 
+git branch -D slm cc cv wa lala
