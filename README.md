@@ -1,3 +1,3 @@
 # nasser3eme
 
-slm cc cv 
+git branch -D slm cc cv 
