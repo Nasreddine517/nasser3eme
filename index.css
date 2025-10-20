@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.titre1{
+    color: beige;
+    font-size: 40px;
+}
+.titre2{
+    color: goldenrod;
+    font-size: 30px;
+}
